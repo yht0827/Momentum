@@ -1,4 +1,4 @@
- 자바스크립트의 비동기 처리란 
+ 자바스크립트의 비동기 처리란!!
  ‘특정 코드의 실행이 완료될 때까지 기다리지 않고 다음 코드를 먼저 수행하는 자바스크립트의 특성’
 
  자바스크립트의 promise
@@ -7,3 +7,4 @@
  이와 같은 문제점을 해결하기 위한 방법 중 하나가 promise
 
 promise 처리 흐름 : https://joshua1988.github.io/images/posts/web/javascript/promise.svg
+
